@@ -19,7 +19,7 @@ const exp = [
     desp: "<liWorked as Python Developer.</li><li>Worked on very python projects.</li>",
   },
   {
-    # title: "Research Intern",
+    title: "Research Intern",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
     place: "IIT, Bombay",
     time: "(Dec, 19 - Jan, 20)",
