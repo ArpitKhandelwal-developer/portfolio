@@ -13,7 +13,7 @@ const exp = [
   },
   {
     title: "Python Development Intern",
-    cardImage: "assets/images/experience-page/codeclause.png",
+    cardImage: "assets/images/experience-page/",
     place: "CodeClause",
     time: "(Jan - Feb, 2023)",
     desp: "<liWorked as Python Developer.</li><li>Worked on very python projects.</li>",
